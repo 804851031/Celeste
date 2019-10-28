@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd90e26-18f8-4d0e-a482-15c0827e5e43" name="Default Changelist" comment="" />
+    <list default="true" id="6dd90e26-18f8-4d0e-a482-15c0827e5e43" name="Default Changelist" comment="第一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/firstMaven/target/" />
     <ignored path="$PROJECT_DIR$/firstMaven2/target/" />
@@ -132,11 +134,6 @@
             <path>
               <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -439,7 +436,7 @@
       <workItem from="1558260353395" duration="9700000" />
       <workItem from="1558396946303" duration="1296000" />
       <workItem from="1572245868514" duration="2771000" />
-      <workItem from="1572248807564" duration="3075000" />
+      <workItem from="1572248807564" duration="3588000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1572249821984</created>
@@ -455,11 +452,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572251251801</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第一次提交">
+      <created>1572252128130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572252128130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28118000" />
+    <option name="totallyTimeSpent" value="28631000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -478,10 +482,10 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50497514" side_tool="true" weight="0.25416037" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4950249" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4950249" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="6" sideWeight="0.50497514" side_tool="true" weight="0.25416037" />
       <window_info id="Web" order="7" sideWeight="0.5023148" side_tool="true" weight="0.25340393" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.30704698" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.7466443" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
